@@ -1,9 +1,9 @@
 //
-//  First_Story.c
-//  FirstObj_C2013
+//  main.c
+//  test1-triangular
 //
-//  Created by Limbo on 3/17/13.
-//  Copyright (c) 2013 Limbo. All rights reserved.
+//  Created by Limbo on 3/13/13.
+//  Copyright (c) 2013 Computation. All rights reserved.
 //
 
 #include <stdio.h>
